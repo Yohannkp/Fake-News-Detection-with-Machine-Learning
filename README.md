@@ -19,8 +19,15 @@
 
 ## 4. Visualisation
 - Distribution des sujets (`subject`) et des classes (`isFake`).
+![alt text](Images/image_dist.png)
+![alt text](Images/image-1.png)
 - Nuages de mots pour les vraies et fausses actualités.
+. Vraie
+![alt text](Images/image-2.png)
+. Fausse
+![alt text](Images/image-3.png)
 - Distribution du nombre de mots par texte.
+![alt text](Images/newplot.png)
 
 ## 5. Préparation des données pour le modèle
 - Séparation en jeux d’entraînement et de test.
